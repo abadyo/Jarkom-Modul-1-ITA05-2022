@@ -95,7 +95,7 @@ openssl des3 -d -salt -in ITA05.des3 -out flag.txt -k nakano
 ```
 
 dimana input file adalah adalah ITA05 dan output file adalah flag.txt
-![openssl](/images/image5.png)
+![openssl](/images/image5.jpg)
 
 ## 10
 
@@ -108,3 +108,4 @@ cat flag.txt
 ```
 
 Hasil sudah ada di soal no 9
+![Lihat yang bawah!!!!!!](/images/image5.jpg)
